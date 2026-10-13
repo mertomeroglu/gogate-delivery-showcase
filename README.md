@@ -1,10 +1,10 @@
-<a href="https://gogatedelivery.com"><img src="assets/hero.webp" alt="GoGate Delivery presentation: courier app screen with an active delivery, navigation and PIN verification" width="100%"></a>
+<a href="https://gogatedelivery.com"><img src="assets/cover.webp" alt="GoGate Delivery: real gogatedelivery.com homepage and the courier app on a test delivery" width="100%"></a>
 
 # GoGate Delivery
 
 Delivery operations for restaurants, hotels and resorts — orders, couriers, tasks and collections managed in one flow.
 
-**Live:** [gogatedelivery.com](https://gogatedelivery.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit gogatedelivery.com ↗︎](https://gogatedelivery.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -18,8 +18,12 @@ Delivery operations for restaurants, hotels and resorts — orders, couriers, ta
 
 ASP.NET Core · Entity Framework Core · PostgreSQL / PostGIS · Redis · SignalR · React · Vite · TypeScript · Tailwind CSS · Capacitor · Docker
 
-<p align="center"><a href="https://gogatedelivery.com"><img src="assets/poster.webp" alt="GoGate Delivery portrait presentation with the courier app" width="420"></a></p>
+### Screens
+
+<a href="https://gogatedelivery.com"><img src="assets/desktop.webp" alt="GoGate Delivery desktop: real screen of gogatedelivery.com" width="100%"></a>
+
+<p align="center"><img src="assets/mobile.webp" alt="GoGate Delivery courier app: active test delivery with navigation and PIN handover" width="300"></p>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>
